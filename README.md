@@ -6,7 +6,7 @@ This repo contains the code and data for some of the guided projects in Machine 
 
 # Natural Language Processing
 
-- Using Naive Bayes for Language Classification
+- **Using Naive Bayes for Language Classification**
 
    - EDA and Data Pre-processing
    - Model Used: MultiNomial Naive Bayes Classifier
