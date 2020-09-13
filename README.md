@@ -1,6 +1,6 @@
-# Guided Projects
+# Learning Path to ML
  
-This repo contains the code and data for some of the guided projects in Machine Learning, Deep Learning, Natural Language Processing and related areas.
+This repo contains the code and data for some of projects that augment learning and understanding in Data Analysis,Machine Learning, Deep Learning, Natural Language Processing and related areas.
 
 # Description
 
