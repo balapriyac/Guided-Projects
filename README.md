@@ -31,6 +31,9 @@ I am a Machine learning enthusiast trying to learn and explore different applica
   - Relevant reading: [Learning Word Vectors for Sentiment Analysis](http://ai.stanford.edu/~amaas/papers/wvSent_acl2011.pdf)
   - [Introductory blog](https://www.analyticsvidhya.com/blog/2020/02/quick-introduction-bag-of-words-bow-tf-idf/)
   
+**Sentiment Analysis with BERT**
+
+  
 # Conversational AI 
 **Building a simple chatbot using Rasa**
   - A simple chatbot using Rasa NLU (an open source library for conversational AI) to greet and answer queries on time zones.
