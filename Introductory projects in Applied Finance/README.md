@@ -1,4 +1,4 @@
- # Introductory projects in Applied Finance
+ # Introductory Projects in Applied Finance
  
  # Statistical Analysis to understand debt recovery strategy
   - To assign different recovery strategies to delinquent customers whose debts have been declared 'uncollectable'
@@ -10,3 +10,5 @@
  # Extracting Stock sentiments from news headlines to generate investment insights
   - Scrape financial news headlines from [FINVIZ](https://www.finviz.com/)
   - Generate investment insights by applying sentiment analysis.
+  
+ # Unsupervised Learning for Customer Market Segmentation
