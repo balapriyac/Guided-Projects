@@ -1,6 +1,6 @@
 # Learning Path to ML
  
-This repo contains the code and data for some of projects that augment learning and understanding in Data Analysis,Machine Learning, Deep Learning, Natural Language Processing and related areas.
+I am a Machine learning enthusiast trying to learn and explore different applications of Machine Learning while constantly working on reinforcing my understanding of the math behind Machine Learning algorithms and Deep learning architectures. This repo contains some of projects that augment learning and understanding in Data Analysis,Machine Learning,DL applications in Image Processing,Natural Language Processing and related areas.
 
 # Description
 
